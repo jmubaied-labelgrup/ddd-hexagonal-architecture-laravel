@@ -15,6 +15,7 @@ Implementing Domain Driven Design and Hexagonal Architecture example API using L
 
 ## Tests:
 Run: `php artisan test`.
+Run: `php artisan test`.
 
 ## API endpoints:
 
